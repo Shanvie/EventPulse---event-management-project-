@@ -1,0 +1,13 @@
+{
+  "name": "eventpulse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EventPulse event management project",
+  "scripts": {
+    "start": "node start.js",
+    "dev": "node start.js",
+    "install:backend": "npm install --prefix backend",
+    "install:frontend": "npm install --prefix frontend",
+    "install:all": "npm run install:backend && npm run install:frontend"
+  }
+}
