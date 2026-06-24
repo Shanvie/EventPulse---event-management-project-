@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "x7n5771mqrr3lau",
+    "name": "Sarah Jenkins",
+    "email": "organizer@event.com",
+    "password": "$2a$10$hLPuJa3SAMY5vrFfPYPhIec8QsEd715hdj0FFQqXvCk.YgX2GlnPi",
+    "role": "organizer",
+    "updatedAt": "2026-06-24T07:27:34.883Z",
+    "createdAt": "2026-06-24T07:27:34.889Z"
+  },
+  {
+    "_id": "ug3fgs2mqrr3ld5",
+    "name": "Alex Rivera",
+    "email": "attendee@event.com",
+    "password": "$2a$10$ydl71DssaYYIh/d0PveNy.GEQrlEe5SiR9TZk.On4OT48ON9Xo7nO",
+    "role": "attendee",
+    "updatedAt": "2026-06-24T07:27:34.959Z",
+    "createdAt": "2026-06-24T07:27:34.959Z"
+  },
+  {
+    "_id": "cjues65mqrrfsxv",
+    "name": "Akshita Swarnkar",
+    "email": "akshitawhitehat.code@gmail.com",
+    "password": "$2a$10$TezyrNzzUQgtLFfAOFOI6.ZDKiDSjy6c4koVbXpp8pWOQJEkKA5.S",
+    "role": "attendee",
+    "updatedAt": "2026-06-24T07:37:04.696Z",
+    "createdAt": "2026-06-24T07:37:04.696Z"
+  }
+]
