@@ -1,8 +1,15 @@
 {
-  "name": "eventpulse",
+  "name": "@shanvie/eventpulse",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "EventPulse event management project",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shanvie/EventPulse---event-management-project-.git"
+  },
   "scripts": {
     "start": "node start.js",
     "dev": "node start.js",
